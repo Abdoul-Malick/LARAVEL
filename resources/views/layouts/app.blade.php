@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="{{asset('assets/css/quill.snow.css')}}">
 
     <!-- MAIN CSS -->
-    <link rel="stylesheet" href="c{{asset('assets/css/style.css">    
+    <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">    
 
     <!-- Scripts -->
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
@@ -102,7 +102,7 @@
     
     <script src="{{asset('assets/js/jquery.waypoints.min.js')}}"></script>
     <script src="{{asset('assets/js/jquery.animateNumber.min.js')}}"></script>
-    <script src="{{asset('assets/js/owl.carousel.min.js'}}"></script>
+    <script src="{{asset('assets/js/owl.carousel.min.js')}}"></script>
     <script src="{{asset('assets/js/quill.min.js')}}"></script>
     
     
